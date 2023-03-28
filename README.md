@@ -1,1 +1,1 @@
-[embed]https://drive.google.com/file/d/1DEka1xm7inydYUF2al60m6KrXbsdhxlJ/view?usp=share_link[embed]
+<h1><b>Projekt realizowany na studiach na zaliczenie zajęć o nazwie "Programowanie Obiektowe w C++". </b></h1>
